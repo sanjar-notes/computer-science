@@ -1,2 +1,2 @@
-# theory-of-computation
-Theory of computation and complexity theory
+# computer science
+Understanding computer science, mainly theory of computation and complexity theory
